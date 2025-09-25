@@ -1,0 +1,25 @@
+# Composer
+/vendor/
+composer.lock
+
+# PHPUnit
+/coverage/
+.phpunit.result.cache
+cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+/tmp/
+/temp/
